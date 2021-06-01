@@ -5,7 +5,7 @@ export default [
     image: "/img/1.jpg",
     title : "Mascot logo tee (white)",
     content : "Born in France",
-    price : "35,000원"
+    price : "36,000원"
   },
 
   {
